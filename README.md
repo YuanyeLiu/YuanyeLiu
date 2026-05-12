@@ -1,46 +1,74 @@
 <h1>你好，我是刘元晔</h1>
 
-<p>我主要关注 [方向 1]、[方向 2] 和 [方向 3]，喜欢把研究问题拆成可验证的步骤，并把结果整理成可复现的代码、图表和写作。</p>
+<p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
 
-<h2>研究方向</h2>
-<ul>
-  <li>[方向 1]</li>
-  <li>[方向 2]</li>
-  <li>[方向 3]</li>
-  <li>[方法 / 工具，例如：机器学习、统计建模、实验设计、数据分析]</li>
-</ul>
+<p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
 
-<h2>当前工作</h2>
-<ul>
-  <li>[正在进行的课题 1]</li>
-  <li>[正在进行的课题 2]</li>
-  <li>[正在做的项目、实验或论文]</li>
-</ul>
-
-<h2>代表性成果</h2>
-<ul>
-  <li>[论文 / 预印本 / 开源项目 1]</li>
-  <li>[论文 / 预印本 / 开源项目 2]</li>
-  <li>[论文 / 预印本 / 开源项目 3]</li>
-</ul>
-
-<h2>技术栈</h2>
-<p><code>Python</code> <code>R</code> <code>MATLAB</code> <code>LaTeX</code> <code>Jupyter</code> <code>Pandas</code> <code>NumPy</code> <code>SciPy</code> <code>PyTorch</code> <code>Git</code></p>
-
-<h2>其他</h2>
-<ul>
-  <li>[学术奖项 / 研究兴趣 / 课程 / 服务工作]</li>
-  <li>[个人简介补充信息]</li>
-</ul>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<h2>Research Interests</h2>
+<p>
+  <img src="https://img.shields.io/badge/Hyperspectral-Computational%20Imaging-2c3e50?style=for-the-badge" alt="Hyperspectral Computational Imaging" />
+  <img src="https://img.shields.io/badge/Hyperspectral-Image%20Fusion-2c3e50?style=for-the-badge" alt="Hyperspectral Image Fusion" />
 </p>
 
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
+<h2>Publications</h2>
+<h3>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</h3>
+<p>
+  <a href="https://doi.org/10.1007/s11263-024-02203-7">
+    <img src="https://img.shields.io/badge/Paper-IJCV%202025-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
+</p>
+
+<h3>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</h3>
+<p>
+  <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
+    <img src="https://img.shields.io/badge/Paper-CVPR%202025-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/YuanyeLiu/SRLF-Net">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
+</p>
+
+
+<!-- <h3>Rank-Aware Routing Decomposition for Hyperspectral and Multispectral Image Fusion</h3>
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Paper-Under%20Review-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
+</p>
+
+<h3>Content Adaptive Mamba for Joint Demosaicing and Spectral Reconstruction</h3>
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Paper-Under%20Review-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/YuanyeLiu/MambaDSR">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
+</p> -->
+
+<h3>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</h3>
+<p>
+  <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
+    <img src="https://img.shields.io/badge/Paper-TNNLS%202024-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/renweidian/LTRN">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
+</p>
+
+<h3>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</h3>
+<p>
+  <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
+    <img src="https://img.shields.io/badge/Paper-TNNLS%202025-2c3e50?style=for-the-badge" alt="Paper" />
+  </a>
+  <a href="https://github.com/renweidian/GTNN">
+    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+  </a>
 </p>
