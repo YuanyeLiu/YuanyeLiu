@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Email-yuanye.liu%40hnu.edu.cn-2c3e50?style=for-the-badge" alt="Email" />
     </a>
     <a href="#wechat">
-      <img src="https://img.shields.io/badge/WeChat-yyliu2025-07C160?style=for-the-badge" alt="WeChat" />
+      <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=for-the-badge" alt="WeChat" />
     </a>
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=bbka8hEAAAAJ">
       <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge" alt="Google Scholar" />
