@@ -1,6 +1,19 @@
 <div align="center">
   <h1>你好，我是刘元晔</h1>
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
+  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
+  <p>
+    <a href="mailto:yuanye.liu@hnu.edu.cn">
+      <img src="https://img.shields.io/badge/Email-yuanye.liu%40hnu.edu.cn-2c3e50?style=for-the-badge" alt="Email" />
+    </a>
+    <a href="#wechat">
+      <img src="https://img.shields.io/badge/WeChat-yyliu2025-07C160?style=for-the-badge" alt="WeChat" />
+    </a>
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=bbka8hEAAAAJ">
+      <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge" alt="Google Scholar" />
+    </a>
+  </p>
+  <p id="wechat"><code>WeChat: yyliu2025</code></p>
 </div>
 
 <h2>Research Interests</h2>
