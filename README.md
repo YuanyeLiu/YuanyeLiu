@@ -6,14 +6,11 @@
     <a href="mailto:yuanye.liu@hnu.edu.cn">
       <img src="https://img.shields.io/badge/email-yuanye.liu%40hnu.edu.cn-2c3e50?style=flat-square" alt="email" />
     </a>
-    <a href="#wechat">
-      <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=flat-square" alt="wechat" />
-    </a>
+    <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=flat-square" alt="wechat" />
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=bbka8hEAAAAJ">
-      <img src="https://img.shields.io/badge/google%20scholar-profile-4285F4?style=flat-square" alt="google scholar" />
+      <img src="https://img.shields.io/badge/google%20scholar-bbka8hEAAAAJ-4285F4?style=flat-square" alt="google scholar" />
     </a>
   </p>
-  <p id="wechat"><code>WeChat: yyliu2025</code></p>
 </div>
 
 <p><strong><span style="font-size: 20px;">Research Interests</span></strong></p>
@@ -29,7 +26,7 @@
     <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p>
 
@@ -39,7 +36,7 @@
     <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/SRLF-Net">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p>
 
@@ -50,7 +47,7 @@
     <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p>
 
@@ -60,7 +57,7 @@
     <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/MambaDSR">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p> -->
 
@@ -70,7 +67,7 @@
     <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/LTRN">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p>
 
@@ -80,6 +77,6 @@
     <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/GTNN">
-    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat-square" alt="Code" />
   </a>
 </p>
