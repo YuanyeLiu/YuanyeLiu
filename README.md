@@ -16,30 +16,30 @@
   <p id="wechat"><code>WeChat: yyliu2025</code></p>
 </div>
 
-<p><strong>Research Interests</strong></p>
+<p><strong><span style="font-size: 20px;">Research Interests</span></strong></p>
 <p>
   Hyperspectral Computational Imaging · Hyperspectral Image Fusion
 </p>
 
 
-<p><strong>Publications</strong></p>
+<p><strong><span style="font-size: 20px;">Publications</span></strong></p>
 <p><strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
 <p>
   <a href="https://doi.org/10.1007/s11263-024-02203-7">
-    <img src="https://img.shields.io/badge/Paper-IJCV%202025-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p>
 
 <p><strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong></p>
 <p>
   <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
-    <img src="https://img.shields.io/badge/Paper-CVPR%202025-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/SRLF-Net">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p>
 
@@ -47,39 +47,39 @@
 <!-- <h3>Rank-Aware Routing Decomposition for Hyperspectral and Multispectral Image Fusion</h3>
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Paper-Under%20Review-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p>
 
 <h3>Content Adaptive Mamba for Joint Demosaicing and Spectral Reconstruction</h3>
 <p>
   <a href="#">
-    <img src="https://img.shields.io/badge/Paper-Under%20Review-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/MambaDSR">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p> -->
 
 <p><strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
-    <img src="https://img.shields.io/badge/Paper-TNNLS%202024-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/LTRN">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p>
 
 <p><strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
-    <img src="https://img.shields.io/badge/Paper-TNNLS%202025-2c3e50?style=for-the-badge" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat-square" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/GTNN">
-    <img src="https://img.shields.io/badge/Code-GitHub-24292f?style=for-the-badge" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-555555?style=flat-square" alt="Code" />
   </a>
 </p>
