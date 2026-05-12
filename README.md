@@ -3,12 +3,10 @@
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
   <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
   <p>
-    <a href="mailto:yuanye.liu@hnu.edu.cn">
-      <img src="https://img.shields.io/badge/email-yuanye.liu%40hnu.edu.cn-2c3e50?style=flat-square" alt="email" />
-    </a>
+    <img src="https://img.shields.io/badge/email-yuanye.liu%40hnu.edu.cn-2c3e50?style=flat-square" alt="email" />
     <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=flat-square" alt="wechat" />
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=bbka8hEAAAAJ">
-      <img src="https://img.shields.io/badge/google%20scholar-bbka8hEAAAAJ-4285F4?style=flat-square" alt="google scholar" />
+      <img src="https://img.shields.io/badge/google%20scholar-profile-4285F4?style=flat-square" alt="google scholar" />
     </a>
   </p>
 </div>
