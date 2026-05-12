@@ -1,30 +1,4 @@
-<table>
-  <tr>
-    <td valign="top" width="32%">
-
-<p align="center">
-  <img src="https://via.placeholder.com/320x420.png?text=Your+Photo" alt="Profile Photo" width="100%" />
-</p>
-
-<h3 align="center">[你的名字]</h3>
-
-<p align="center">[机构 / 实验室]</p>
-
-<p><strong>联系方式</strong></p>
-<ul>
-  <li>邮箱：<a href="mailto:your.email@domain.com">your.email@domain.com</a></li>
-  <li>单位：[单位名称]</li>
-  <li>主页：[个人网站 / 实验室主页]</li>
-  <li>Google Scholar：[链接]</li>
-  <li>ORCID：[链接]</li>
-</ul>
-
-    </td>
-    <td valign="top" width="68%">
-
 <h1>你好，我是 [你的名字]</h1>
-
-<p><strong>科研人员 | [研究方向] | [机构 / 实验室]</strong></p>
 
 <p>我主要关注 [方向 1]、[方向 2] 和 [方向 3]，喜欢把研究问题拆成可验证的步骤，并把结果整理成可复现的代码、图表和写作。</p>
 
