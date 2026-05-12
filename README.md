@@ -1,7 +1,6 @@
 <div align="center">
   <p><strong style="font-size: 28px;">Hello, I'm Yuanye Liu</strong></p>
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
-  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
   <p>
     <img src="https://img.shields.io/badge/email-yuanye.liu%40hnu.edu.cn-2c3e50?style=flat-square" alt="email" />
     <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=flat-square" alt="wechat" />
