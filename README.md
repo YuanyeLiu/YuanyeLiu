@@ -1,7 +1,6 @@
 <div align="center">
   <h1>你好，我是刘元晔</h1>
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
-  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
 </div>
 
 <h2>Research Interests</h2>
