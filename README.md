@@ -16,7 +16,6 @@
 </p>
 
 <p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="publications" width="20" height="20" style="vertical-align: -3px;" /> Publications</span></strong></p>
-<p><small><sup>*</sup> Corresponding author</small></p>
 <p>⚡ <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
 <p><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
 <p>
@@ -60,6 +59,17 @@
   </a>
 </p> -->
 
+<p>⚡ <strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></p>
+<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
+<p>
+  <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
+    <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
+  </a>
+  <a href="https://github.com/renweidian/GTNN">
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+  </a>
+</p>
+
 <p>⚡ <strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></p>
 <p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
 <p>
@@ -71,13 +81,4 @@
   </a>
 </p>
 
-<p>⚡ <strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></p>
-<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
-<p>
-  <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
-    <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
-  </a>
-  <a href="https://github.com/renweidian/GTNN">
-    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
-  </a>
-</p>
+
