@@ -1,7 +1,7 @@
 <div align="center">
   <p><strong style="font-size: 28px;">Hello, I'm Yuanye Liu</strong></p>
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
-  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
+
   <p>
     <img src="https://img.shields.io/badge/-yuanye.liu%40hnu.edu.cn-C14438?style=flat&logo=gmail&logoColor=white" alt="email" />
     <img src="https://img.shields.io/badge/-yyliu2025-07C160?style=flat&logo=wechat&logoColor=white" alt="wechat" />
@@ -15,7 +15,6 @@
 <p>
   Hyperspectral Computational Imaging · Hyperspectral Image Fusion
 </p>
-
 
 <p><strong><span style="font-size: 20px;">Publications</span></strong></p>
 <p><small><sup>*</sup> Corresponding author</small></p>
