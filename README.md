@@ -1,6 +1,6 @@
 <div align="center">
-  <p><strong style="font-size: 28px;">Hello, I'm Yuanye Liu</strong></p>
-  <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
+  <p><strong style="font-size: 28px;">I'm Yuanye Liu</strong></p>
+  <p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" alt="academic" width="18" height="18" style="vertical-align: -3px;" /> PhD Student @ Hunan University, School of Artificial Intelligence and Robotics.</p>
 
   <p>
     <img src="https://img.shields.io/badge/-yuanye.liu%40hnu.edu.cn-C14438?style=flat&logo=gmail&logoColor=white" alt="email" />
@@ -11,12 +11,13 @@
   </p>
 </div>
 
-<p><strong><span style="font-size: 20px;">Research Interests</span></strong></p>
+<p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png" alt="research" width="20" height="20" style="vertical-align: -3px;" /> Research Interests</span></strong></p>
 <p>
   Hyperspectral Computational Imaging · Hyperspectral Image Fusion
 </p>
 
-<p><strong><span style="font-size: 20px;">Publications</span></strong></p>
+<p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="publications" width="20" height="20" style="vertical-align: -3px;" /> Publications</span></strong></p>
+<p><small><sup>*</sup> Corresponding author</small></p>
 <p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="paper" width="16" height="16" style="vertical-align: text-bottom;" /> <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
 <p><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
 <p>
