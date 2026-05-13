@@ -39,6 +39,18 @@
   </a>
 </p>
 
+<p>⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong></p>
+<p><em>Jiayu Cui<sup>†</sup>, <strong>Yuanye Liu</strong><sup>†</sup>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em></p>
+<p><small><sup>†</sup> These authors contributed equally.</small></p>
+<p>
+  <a href="https://doi.org/10.1016/j.inffus.2026.104244">
+    <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
+  </a>
+  <a href="https://github.com/Darcycuis/DHMF-Net">
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+  </a>
+</p>
+
 
 <!-- <h3>Rank-Aware Routing Decomposition for Hyperspectral and Multispectral Image Fusion</h3>
 <p>
@@ -61,7 +73,7 @@
 </p> -->
 
 <p>⚡ <strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></p>
-<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
+<p><em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
     <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
@@ -72,7 +84,7 @@
 </p>
 
 <p>⚡ <strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></p>
-<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
+<p><em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
     <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat" alt="Paper" />
@@ -81,16 +93,3 @@
     <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
-
-<p>⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong></p>
-<p><em>Jiayu Cui, <strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em></p>
-<p>
-  <a href="https://doi.org/10.1016/j.inffus.2026.104244">
-    <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
-  </a>
-  <a href="https://github.com/Darcycuis/DHMF-Net">
-    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
-  </a>
-</p>
-
-
