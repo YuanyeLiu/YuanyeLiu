@@ -22,68 +22,63 @@
 
 <p><strong><span style="font-size: 24px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="publications" width="24" height="24" style="vertical-align: -4px;" /> Publications</span></strong></p>
 
-<div style="margin-bottom: 14px;">
-  <div><span style="display:inline-block; width: 18px;">⚡</span><strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></div>
-  <div style="padding-left: 18px;"><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></div>
-  <div style="padding-left: 18px;">
+<p>
+  ⚡ <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong><br>
+  &emsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
+  &emsp;
     <a href="https://doi.org/10.1007/s11263-024-02203-7">
       <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
-  </div>
-</div>
+</p>
 
-<div style="margin-bottom: 14px;">
-  <div><span style="display:inline-block; width: 18px;">⚡</span><strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong></div>
-  <div style="padding-left: 18px;"><em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em></div>
-  <div style="padding-left: 18px;">
+<p>
+  ⚡ <strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong><br>
+  &emsp;<em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
+  &emsp;
     <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
       <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/YuanyeLiu/SRLF-Net">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
-  </div>
-</div>
+</p>
 
-<div style="margin-bottom: 14px;">
-  <div><span style="display:inline-block; width: 18px;">⚡</span><strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong></div>
-  <div style="padding-left: 18px;"><em>Jiayu Cui<sup>†</sup>, <strong>Yuanye Liu</strong><sup>†</sup>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em></div>
-  <div style="padding-left: 18px;"><small><sup>†</sup> These authors contributed equally.</small></div>
-  <div style="padding-left: 18px;">
+<p>
+  ⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong><br>
+  &emsp;<em>Jiayu Cui<sup>†</sup>, <strong>Yuanye Liu</strong><sup>†</sup>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em><br>
+  &emsp;<small><sup>†</sup> These authors contributed equally.</small><br>
+  &emsp;
     <a href="https://doi.org/10.1016/j.inffus.2026.104244">
       <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/Darcycuis/DHMF-Net">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
-  </div>
-</div>
+</p>
 
-<div style="margin-bottom: 14px;">
-  <div><span style="display:inline-block; width: 18px;">⚡</span><strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></div>
-  <div style="padding-left: 18px;"><em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em></div>
-  <div style="padding-left: 18px;">
+<p>
+  ⚡ <strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong><br>
+  &emsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
+  &emsp;
     <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
       <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/renweidian/GTNN">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
-  </div>
-</div>
+</p>
 
-<div style="margin-bottom: 14px;">
-  <div><span style="display:inline-block; width: 18px;">⚡</span><strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></div>
-  <div style="padding-left: 18px;"><em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em></div>
-  <div style="padding-left: 18px;">
+<p>
+  ⚡ <strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong><br>
+  &emsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
+  &emsp;
     <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
       <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/renweidian/LTRN">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
-  </div>
-</div>
+</p>
