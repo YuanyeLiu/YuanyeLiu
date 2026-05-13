@@ -1,6 +1,7 @@
 <div align="center">
   <p><strong style="font-size: 28px;">Hello, I'm Yuanye Liu</strong></p>
   <p>I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
+  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
   <p>
     <img src="https://img.shields.io/badge/email-yuanye.liu%40hnu.edu.cn-2c3e50?style=flat-square" alt="email" />
     <img src="https://img.shields.io/badge/wechat-yyliu2025-07C160?style=flat-square" alt="wechat" />
@@ -17,7 +18,9 @@
 
 
 <p><strong><span style="font-size: 20px;">Publications</span></strong></p>
+<p><small><sup>*</sup> Corresponding author</small></p>
 <p><strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
+<p><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
 <p>
   <a href="https://doi.org/10.1007/s11263-024-02203-7">
     <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat-square" alt="Paper" />
@@ -28,6 +31,7 @@
 </p>
 
 <p><strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong></p>
+<p><em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
 <p>
   <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
     <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat-square" alt="Paper" />
@@ -59,6 +63,7 @@
 </p> -->
 
 <p><strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></p>
+<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
     <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat-square" alt="Paper" />
@@ -69,6 +74,7 @@
 </p>
 
 <p><strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong></p>
+<p><em>Renwei Dian<sup>*</sup>, <strong>Yuanye Liu</strong>, Shutao Li</em></p>
 <p>
   <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
     <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat-square" alt="Paper" />
