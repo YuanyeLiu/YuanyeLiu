@@ -34,7 +34,7 @@
   </div>
 </div>
 
-<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0), rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
+<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
 
 <div style="line-height: 1.25; margin-bottom: 14px;">
   <div>⚡ <strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong></div>
@@ -49,7 +49,7 @@
   </div>
 </div>
 
-<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0), rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
+<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
 
 <div style="line-height: 1.25; margin-bottom: 14px;">
   <div>⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong></div>
@@ -99,7 +99,7 @@
   </div>
 </div>
 
-<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0), rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
+<div style="height: 1px; margin: 8px 0 14px; background: linear-gradient(to right, rgba(79,124,172,0.85), rgba(79,124,172,0));"></div>
 
 <div style="line-height: 1.25; margin-bottom: 14px;">
   <div>⚡ <strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong></div>
