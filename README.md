@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/SRLF-Net">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Paper-Under%20Review-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/YuanyeLiu/MambaDSR">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p> -->
 
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/LTRN">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
 
@@ -78,6 +78,6 @@
     <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
   </a>
   <a href="https://github.com/renweidian/GTNN">
-    <img src="https://img.shields.io/badge/Code-GitHub-2E7D32?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
   </a>
 </p>
