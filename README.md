@@ -82,4 +82,15 @@
   </a>
 </p>
 
+<p>⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong></p>
+<p><em>Jiayu Cui, <strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em></p>
+<p>
+  <a href="https://doi.org/10.1016/j.inffus.2026.104244">
+    <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
+  </a>
+  <a href="https://github.com/Darcycuis/DHMF-Net">
+    <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
+  </a>
+</p>
+
 
