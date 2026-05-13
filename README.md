@@ -16,6 +16,10 @@
   Hyperspectral Computational Imaging · Hyperspectral Image Fusion
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F7CAC,100:2E7D32&height=3&section=header" alt="divider" width="100%" />
+</p>
+
 <p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="publications" width="20" height="20" style="vertical-align: -3px;" /> Publications</span></strong></p>
 <p>⚡ <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
 <p><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
