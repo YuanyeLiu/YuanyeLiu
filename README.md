@@ -24,8 +24,8 @@
 
 <p>
   ⚡ <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong><br>
-  &emsp;&emsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
-  &emsp;&emsp;&nbsp;&nbsp;
+  &emsp;&nbsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://doi.org/10.1007/s11263-024-02203-7">
       <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
@@ -36,8 +36,8 @@
 
 <p>
   ⚡ <strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong><br>
-  &emsp;&emsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
-  &emsp;&emsp;&nbsp;&nbsp;
+  &emsp;&nbsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
       <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
@@ -48,9 +48,9 @@
 
 <p>
   ⚡ <strong>Dual-Stream Hierarchical Mamba for High-Resolution Hyperspectral Fusion Imaging</strong><br>
-  &emsp;&emsp;&nbsp;&nbsp;<em>Jiayu Cui<sup>†</sup>, <strong>Yuanye Liu</strong><sup>†</sup>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em><br>
-  &emsp;&emsp;&nbsp;&nbsp;<small><sup>†</sup> These authors contributed equally.</small><br>
-  &emsp;&emsp;&nbsp;&nbsp;
+  &emsp;&nbsp;&nbsp;&nbsp;<em>Jiayu Cui<sup>†</sup>, <strong>Yuanye Liu</strong><sup>†</sup>, Renwei Dian<sup>*</sup>, Shutao Li, Jinyang Liu</em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;<small><sup>†</sup> These authors contributed equally.</small><br>
+  &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://doi.org/10.1016/j.inffus.2026.104244">
       <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
     </a>
@@ -61,8 +61,8 @@
 
 <p>
   ⚡ <strong>Hyperspectral Image Fusion via a Novel Generalized Tensor Nuclear Norm Regularization</strong><br>
-  &emsp;&emsp;&nbsp;&nbsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
-  &emsp;&emsp;&nbsp;&nbsp;
+  &emsp;&nbsp;&nbsp;&nbsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://doi.org/10.1109/TNNLS.2024.3385473">
       <img src="https://img.shields.io/badge/Paper-TNNLS%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
@@ -73,8 +73,8 @@
 
 <p>
   ⚡ <strong>Spectral Super-Resolution via Deep Low-Rank Tensor Representation</strong><br>
-  &emsp;&emsp;&nbsp;&nbsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
-  &emsp;&emsp;&nbsp;&nbsp;
+  &emsp;&nbsp;&nbsp;&nbsp;<em>Renwei Dian, <strong>Yuanye Liu</strong>, Shutao Li<sup>*</sup></em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://doi.org/10.1109/TNNLS.2024.3359852">
       <img src="https://img.shields.io/badge/Paper-TNNLS%202024-4F7CAC?style=flat" alt="Paper" />
     </a>
