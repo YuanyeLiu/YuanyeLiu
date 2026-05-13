@@ -1,7 +1,7 @@
 <div align="center">
   <p><strong style="font-size: 28px;">I'm Yuanye Liu</strong></p>
-  <p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" alt="academic" width="18" height="18" style="vertical-align: -3px;" /> PhD Student @ Hunan University, School of Artificial Intelligence and Robotics.</p>
-
+  <p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" alt="academic" width="18" height="18" style="vertical-align: -3px;" /> I'm currently pursuing the Ph.D. degree with the School of Robotics, Hunan University, Changsha, China.</p>
+  <p>PhD Student @ Hunan University, School of Artificial Intelligence and Robotics</p>
   <p>
     <img src="https://img.shields.io/badge/-yuanye.liu%40hnu.edu.cn-C14438?style=flat&logo=gmail&logoColor=white" alt="email" />
     <img src="https://img.shields.io/badge/-yyliu2025-07C160?style=flat&logo=wechat&logoColor=white" alt="wechat" />
@@ -11,7 +11,7 @@
   </p>
 </div>
 
-<p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png" alt="research" width="20" height="20" style="vertical-align: -3px;" /> Research Interests</span></strong></p>
+<p><strong><span style="font-size: 20px;"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png" alt="research" width="20" height="20" style="vertical-align: -3px;" /> Research Interests</span></strong></p>
 <p>
   Hyperspectral Computational Imaging · Hyperspectral Image Fusion
 </p>
