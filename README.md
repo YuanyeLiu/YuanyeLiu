@@ -36,7 +36,7 @@
 
 <p>
   ⚡ <strong>A Selective Re-learning Mechanism for Hyperspectral Fusion Imaging</strong><br>
-  &emsp;<em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
+  &emsp;<em><em><strong>Yuanye Liu</strong>, Jinyang Liu, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
   &emsp;
     <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_A_Selective_Re-learning_Mechanism_for_Hyperspectral_Fusion_Imaging_CVPR_2025_paper.html">
       <img src="https://img.shields.io/badge/Paper-CVPR%202025-4F7CAC?style=flat" alt="Paper" />
