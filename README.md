@@ -17,7 +17,6 @@
 </p>
 
 <p><strong><span style="font-size: 20px;">Publications</span></strong></p>
-<p><small><sup>*</sup> Corresponding author</small></p>
 <p><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" alt="paper" width="16" height="16" style="vertical-align: text-bottom;" /> <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong></p>
 <p><em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em></p>
 <p>
