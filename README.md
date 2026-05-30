@@ -30,7 +30,7 @@
     <a href="https://www.sciencedirect.com/science/article/pii/S1566253526003775">
       <img src="https://img.shields.io/badge/Paper-Inf%202026-4F7CAC?style=flat" alt="Paper" />
     </a>
-    <a href="[https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging](https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion)">
+    <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
 </p>
