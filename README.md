@@ -27,10 +27,10 @@
   ⚡ <strong>Rank-Aware Routing Decomposition for Hyperspectral and Multispectral Image Fusion</strong><br>
   &emsp;&nbsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Zhijun Zhao， Shutao Li</em><br>
   &emsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://doi.org/10.1007/s11263-024-02203-7">
-      <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat" alt="Paper" />
+    <a href="[https://doi.org/10.1007/s11263-024-02203-7](https://www.sciencedirect.com/science/article/pii/S1566253526003775)">
+      <img src="https://img.shields.io/badge/Paper-Inf%202026-4F7CAC?style=flat" alt="Paper" />
     </a>
-    <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
+    <a href="[https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging](https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion)">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
     </a>
 </p>
@@ -39,8 +39,8 @@
   ⚡ <strong>Low-Rank Transformer for High-Resolution Hyperspectral Computational Imaging</strong><br>
   &emsp;&nbsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Shutao Li</em><br>
   &emsp;&nbsp;&nbsp;&nbsp;
-    <a href="[https://doi.org/10.1007/s11263-024-02203-7](https://www.sciencedirect.com/science/article/pii/S1566253526003775)">
-      <img src="https://img.shields.io/badge/Paper-Inf%202026-4F7CAC?style=flat" alt="Paper" />
+    <a href="https://doi.org/10.1007/s11263-024-02203-7">
+      <img src="https://img.shields.io/badge/Paper-IJCV%202025-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/YuanyeLiu/Low-Rank-Transformer-For-High-Resolution-Hyperspectral-Computational-Imaging">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
