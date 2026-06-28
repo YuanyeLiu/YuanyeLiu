@@ -28,7 +28,7 @@
   &emsp;&nbsp;&nbsp;&nbsp;<em><strong>Yuanye Liu</strong>, Renwei Dian<sup>*</sup>, Zhijun Zhao， Shutao Li</em><br>
   &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.sciencedirect.com/science/article/pii/S1566253526003775">
-      <img src="https://img.shields.io/badge/Paper-Inf%202026-4F7CAC?style=flat" alt="Paper" />
+      <img src="https://img.shields.io/badge/Paper-Inf.%20Fusion%202026-4F7CAC?style=flat" alt="Paper" />
     </a>
     <a href="https://github.com/YuanyeLiu/Rank-Aware-Routing-Decomposition-for-Hyperspectral-and-Multispectral-Image-Fusion">
       <img src="https://img.shields.io/badge/Code-GitHub-4F7CAC?labelColor=555555&style=flat&logo=github&logoColor=white" alt="Code" />
