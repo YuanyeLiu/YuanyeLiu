@@ -99,7 +99,7 @@
 
 <p>
   ⚡ <strong>Covariance-Guided and Direction-Aware Scan Attention for Hyperspectral Image Fusion</strong><br>
-  &emsp;&nbsp;&nbsp;&nbsp;<em>Qiya Song, Fei Peng, Shutao Li, <strong>Yuanye Liu</strong>strong><sup>*</sup>,  Renwei Dian<sup>*</sup></em><br>
+  &emsp;&nbsp;&nbsp;&nbsp;<em>Qiya Song, Fei Peng, Shutao Li, <strong>Yuanye Liu</strong><sup>*</sup>,  Renwei Dian<sup>*</sup></em><br>
   &emsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ieeexplore.ieee.org/document/11655216">
       <img src="https://img.shields.io/badge/Paper-TCSVT%202026-4F7CAC?style=flat" alt="Paper" />
